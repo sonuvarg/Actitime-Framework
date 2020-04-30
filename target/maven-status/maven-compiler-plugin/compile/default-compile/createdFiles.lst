@@ -1,0 +1,6 @@
+com\actitime\pages\CreateCustomerPage.class
+com\actitime\configuration\CommonSetup.class
+com\actitime\pages\TaskPage.class
+com\actitime\pages\HomePage.class
+com\actitime\commonutils\WebDriverUtils.class
+com\actitime\pages\LoginPage.class
